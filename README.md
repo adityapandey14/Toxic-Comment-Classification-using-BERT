@@ -2,7 +2,7 @@
 
 The toxicity class refers to any comment or text containing offensive or hurtful words. This can involve insults, slurs or other offensive language.
 
-##About the dataset :
+## About the dataset :
 
 We have a large number of Wikipedia comments which have been labelled by human raters for toxic behaviour. The dataset variables are:
 
@@ -14,4 +14,5 @@ We have a large number of Wikipedia comments which have been labelled by human r
 6. identity_hate
 
 ## Prerequisite
- ``` !pip install torch
+ $ !pip install torch
+ !pip install transformers
