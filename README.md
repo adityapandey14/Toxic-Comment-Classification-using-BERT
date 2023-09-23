@@ -14,5 +14,4 @@ We have a large number of Wikipedia comments which have been labelled by human r
 6. identity_hate
 
 ## Prerequisite
-1. ``` !pip install torch
-2. ``` !pip install transformers
+ ``` !pip install torch
