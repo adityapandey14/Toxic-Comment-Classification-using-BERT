@@ -14,5 +14,11 @@ We have a large number of Wikipedia comments which have been labelled by human r
 6. identity_hate
 7. 
 ## Prerequisite :
-### Install Pytorch  ``` $ !pip install torch
-### Install Transformer ``` !pip install transformers
+### Install Pytorch  
+```bash
+ !pip install torch
+```
+### Install Transformer
+```bash
+!pip install transformers
+```
