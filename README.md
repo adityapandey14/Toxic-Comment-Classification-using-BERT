@@ -12,7 +12,7 @@ We have a large number of Wikipedia comments which have been labelled by human r
 4. threat
 5. insult
 6. identity_hate
-
-## Prerequisite
- $ !pip install torch
- !pip install transformers
+7. 
+## Prerequisite :
+### Install Pytorch  ``` $ !pip install torch
+### Install Transformer ``` !pip install transformers
