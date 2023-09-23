@@ -30,6 +30,7 @@ column_labels = data.columns.tolist()[2:]
 label_counts = data[column_labels].sum().sort_values()
 
 
+
 # Create a black background for the plot
 plt.figure(figsize=(7, 5))
 
